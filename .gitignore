@@ -1,0 +1,9 @@
+# Hide .db and .log
+*.db
+*.log
+
+#Hide directories with the names target and bin
+
+target/
+bin/
+
